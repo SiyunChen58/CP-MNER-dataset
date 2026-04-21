@@ -45,8 +45,8 @@ CP-MNER contains the following 16 entity types:
 | PERSON | Real person names, painters, historical figures | Qianlong, Kangxi, Li Qingzhao |
 | ARCHITECTURE | Buildings, bridges, pavilions, palaces | temple, palace, garden |
 | LANDSCAPE | Natural scenery, mountains, rivers, terrain elements | mountain, water, cloud, mist |
-| SEAL | Seals, seal inscriptions, colophons | “Qianlong Yulan Zhibao”, “Qianlong Baoxi” |
-| SIZE | Artwork dimensions, width/height measurements | “99.3 cm in height”, “61.9 cm in width” |
+| SEAL | Seals, seal inscriptions, colophons | Qianlong Yulan Zhibao, Qianlong Baoxi |
+| SIZE | Artwork dimensions, width/height measurements | 99.3 cm in height, 61.9 cm in width |
 | MATERIAL | Painting materials, paper, silk, media | xuan paper, silk |
 | PLANT | Flowers, trees, grasses, plant species | plum blossom, orchid, chrysanthemum |
 | FIGURE | Human or character figures depicted in the painting, including deities and fictional figures | Guanyin, Tathagata |
